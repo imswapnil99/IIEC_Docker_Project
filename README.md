@@ -34,10 +34,10 @@ under a guidance of World Record Holder My Mentor Mr.Vimal Daga sir.
 
 ## 5. Docker-compose start/stop:
    * After using docker compose up whole setup/infrastrure is done .
-      ` docker-compose up `.
-      ` docker-compose down `.
+         * ` docker-compose up `.
+         * ` docker-compose down `.
 
 ## 9. Docker-compose down:
   * You can easily stop the containers using `docker compose down` command.
 
-## Lastly Thank you so much Vimal Daga Sir.
+## THANK'S A LOT VIMAL SIR FOR YOUR GUIDANCE!!!
