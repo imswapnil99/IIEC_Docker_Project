@@ -23,6 +23,7 @@ under a guidance of World Record Holder My Mentor Mr.Vimal Daga sir.
  
  ### services:
    * In docker compose we use the term services to rectify which things will run when we start the compose file.
+   
 ### volumes:
    ` docker create volume [volume name]` . 
    * In docker as soon as we terminate an container our whole data inside that container destroyed. But if we want to make our data permanent then we have to use **docker volume**.
@@ -30,14 +31,11 @@ under a guidance of World Record Holder My Mentor Mr.Vimal Daga sir.
    * As we know nextcloud needs MySQL database server to store data that's so we need to use **depends_on**. 
    
 ## 4. Docker-compose up:
-  * As per the below mentioned picture use `docker-compose up` to complete the setup.
-
-## 5. Docker-compose start/stop:
+   * As per the below mentioned picture use `docker-compose up` to complete the setup.
+## 5. Docker-compose start:
    * After using docker compose up whole setup/infrastrure is done .
-         * ` docker-compose up `.
-         * ` docker-compose down `.
-
-## 9. Docker-compose down:
-  * You can easily stop the containers using `docker compose down` command.
+         * ` docker-compose start `.
+## 6. Docker-compose down:
+   * We can easily stop the containers using `docker compose down` command.
 
 ## THANK'S A LOT VIMAL SIR FOR YOUR GUIDANCE!!!
